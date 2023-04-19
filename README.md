@@ -1,2 +1,2 @@
 # quiz
-This is Quiz Application repo by Mansi, Margi and Dhruv
+This is Quiz Application repo by Mansi, Margi and Dhruv.
